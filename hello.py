@@ -1,1 +1,1 @@
-print("Hello Jenkins CI/CD Test")
+print("Hello Jenkins")
